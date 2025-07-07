@@ -1,0 +1,9 @@
+[submodule "agentcardsservice"]
+	path = agentcardsservice
+	url = https://github.com/honfire/agentcardsservice.git
+[submodule "a2a-samples"]
+	path = a2a-samples
+	url = https://github.com/honfire/a2a-samples.git
+[submodule "ipa2a-frontend"]
+	path = ipa2a-frontend
+	url = https://github.com/honfire/ipa2a-frontend.git
